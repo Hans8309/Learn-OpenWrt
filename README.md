@@ -20,3 +20,5 @@ uci delete dhcp.lan.dhcpv6
 uci delete dhcp.lan.ndp
 
 # --------------------
+OpenWRT基本知识整理
+http://www.openwrt.pro/post-170.html
